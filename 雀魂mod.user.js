@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 //1代表一姬,2代表二阶堂，以此类推
-var setcharacter = 7; //人物
+var setcharacter = 2; //人物
 /*
 id:305001, name_chs:"咸鱼立直棒"
 id: 305002, name_chs: "大葱立直棒",
@@ -22,7 +22,7 @@ id: 305019, name_chs: "24K金棒",
 id: 305027, name_chs: "爆竹立直棒",
 id: 305028, name_chs: "饺子立直棒",
 */
-var setitemlizhibang = 305001; //立直棒
+var setitemlizhibang = 305028; //立直棒
 /*
 id: 305007, name_chs: "烈焰和牌",
 id: 305008, name_chs: "旋风和牌",
@@ -36,7 +36,7 @@ id: 305010, name_chs: "苍火立直",
 id: 305021, name_chs: "碎冰立直",
 id: 305022, name_chs: "火焰立直",
 */
-var setlizhi = 305021; //立直特效
+var setlizhi = 305022; //立直特效
 /*
 id: 305011, name_chs: "橘猫爪",
 id: 305030, name_chs: "夜月猫爪",
@@ -47,7 +47,7 @@ var setshou = 305030; //爪子
 id: 305025, name_chs: "《真剑胜负》",
 id: 305026, name_chs: "《激斗》"
 */
-var setmusic = 305025; //立直音效
+var setmusic = 305026; //立直音效
 
 setTimeout(
   (function() {
