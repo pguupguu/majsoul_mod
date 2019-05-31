@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 //1代表一姬,2代表二阶堂，以此类推
-var setcharacter = 9; //人物
+var setcharacter = 2; //人物
 /*
 id:305001, name_chs:"咸鱼立直棒"
 id: 305002, name_chs: "大葱立直棒",
